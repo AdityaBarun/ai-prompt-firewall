@@ -237,6 +237,13 @@ docker-compose up
 
 ---
 
+# Running test cases
+
+```bash
+python -m pytest -v
+```
+---
+
 # Design Principles
 
 This project follows:
