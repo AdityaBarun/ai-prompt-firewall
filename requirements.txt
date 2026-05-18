@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+httpx
+pydantic
+python-dotenv
+structlog
+
+huggingface_hub
+
+pytest
+pytest-asyncio
+
+black
+flake8
+mypy
+isort
